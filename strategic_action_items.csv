@@ -1,0 +1,6 @@
+action_category,action_description,customer_count,priority
+Customer Retention,Contact critical retention customers within 7 days,9432.0,Critical
+Cross-Selling,Launch cross-selling campaign for high-priority customers,191.0,High
+Fraud Investigation,Investigate high-risk fraud claims,661.0,High
+Pricing Optimization,Implement risk-based pricing adjustments,15000.0,Medium
+Portfolio Rebalancing,Review high-risk customer concentration,1451.0,Medium

@@ -1,0 +1,6 @@
+selected resource name:		InsuranceAnalyticsPipeline
+selected resource type:		pipeline
+factory name:			nurullina-datafactory
+factory location:		centralus
+subscription id:		34a7dc87-757d-441f-93af-7d037096045f
+time of download (UTC):		Thu, 10 Jul 2025 02:05:32 GMT

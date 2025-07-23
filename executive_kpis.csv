@@ -1,0 +1,16 @@
+kpi_name,kpi_value
+total_customers,15000.0
+total_policies,75000.0
+total_premiums,4.2164930404000455E8
+total_claims,10643.0
+total_claim_amount,1.2524208089999962E9
+loss_ratio,297.0290231716287
+claims_rate,14.190666666666665
+avg_clpv,72169.02879780054
+total_portfolio_clpv,1.082535431967011E9
+retention_rate,79.488
+at_risk_customers,1509.0
+premium_at_risk,9613655.11999998
+pricing_revenue_impact,-2.977092996261833E7
+cross_sell_potential,1.8870113066000026E7
+fraud_prevention_savings,3.2213160817500006E7

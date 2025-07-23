@@ -1,0 +1,29 @@
+{
+    "name": "DailyInsuranceAnalytics",
+    "properties": {
+        "description": "Schedule DailyInsuranceAnalytics trigger",
+        "annotations": [],
+        "runtimeState": "Started",
+        "pipelines": [
+            {
+                "pipelineReference": {
+                    "referenceName": "InsuranceAnalyticsPipeline",
+                    "type": "PipelineReference"
+                },
+                "parameters": {
+                    "rawDataPath": "dbfs:/FileStore/raw/fraud_data.csv",
+                    "processedDataPath": "dbfs:/FileStore/processed/fraud_dashboard/"
+                }
+            }
+        ],
+        "type": "ScheduleTrigger",
+        "typeProperties": {
+            "recurrence": {
+                "frequency": "Day",
+                "interval": 1,
+                "startTime": "2025-07-11T04:00:00",
+                "timeZone": "Central Standard Time"
+            }
+        }
+    }
+}

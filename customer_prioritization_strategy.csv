@@ -1,0 +1,8 @@
+customer_segment,strategy,focus_area,priority
+Premium-Low Risk,VIP Treatment,Retention + Cross-sell,High
+Premium-Medium Risk,Proactive Retention,Risk mitigation,High
+Premium-High Risk,Intensive Management,Risk reduction,Medium
+High Value-Low Risk,Growth Focus,Cross-sell + Upsell,High
+High Value-Medium Risk,Retention Focus,Stabilization,Medium
+Medium Value-Low Risk,Cross-sell Target,Policy expansion,Medium
+Low Value-High Risk,Risk Management,Policy review,Low

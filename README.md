@@ -147,9 +147,9 @@ This project is ideal for demonstrating skills aligned with:
 
   ![Data Factory](<DataFactory Web Activity complete.png>)
 
-  ![Power Bi tables](<PowerBi added 5 more tables from 5 exports csv + date table.png>)
+  ![Power BI tables](<PowerBi added 5 more tables from 5 exports csv + date table.png>)
 
-  ![Power Bi Dashboard](< PowerBi Page 3.Claims and Risk Analysis.png>)
+  ![Power BI Dashboard](< PowerBi Page 3.Claims and Risk Analysis.png>)
   
 * **Project Repo** – \[GitHub Link](https://github.com/ElenkaSan/Insurance_Analytics_Platform)
 * **Portfolio** – []()

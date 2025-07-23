@@ -149,7 +149,7 @@ This project is ideal for demonstrating skills aligned with:
 
   ![Power Bi tables](<PowerBi added 5 more tables from 5 exports csv + date table.png>)
 
-  ![Power Bi Dashboard](<img width="2000" height="1106" alt=" PowerBi Page 3 Claims and Risk Analysis" src="https://github.com/user-attachments/assets/97b0ce86-6153-4dc2-aac9-1ce5510f6f02" />)
+  ![Power Bi Dashboard](< PowerBi Page 3.Claims and Risk Analysis.png>)
 
 * **Project Repo** – \[GitHub Link](https://github.com/ElenkaSan/Insurance_Analytics_Platform)
 * **Portfolio** – []()
